@@ -1,0 +1,7 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.adcard{
+    border: 1px solid red;
+}
